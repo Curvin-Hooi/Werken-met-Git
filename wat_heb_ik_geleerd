@@ -1,0 +1,40 @@
+Wat is Git?
+Git is een handig hulpmiddel om je code stap voor stap op te slaan. Je kunt makkelijk terugzien wat je eerder hebt gedaan en samenwerken met anderen aan hetzelfde project zonder elkaars werk te verstoren.
+
+Belangrijke Git-commando’s
+git init – Hiermee begin je een nieuw Git-project (repository).
+
+git clone – Hiermee kopieer je een bestaand project naar je eigen computer.
+
+git add – Zet je aanpassingen klaar om op te slaan.
+
+git commit – Slaat de wijzigingen definitief op in je project.
+
+git push – Stuurt je opgeslagen werk naar een online opslagplek zoals GitHub.
+
+git pull – Haalt de nieuwste wijzigingen van GitHub op naar jouw computer.
+
+git status – Laat zien wat er veranderd is in je project en wat nog niet is opgeslagen.
+
+git log – Laat een lijst zien van alle eerdere versies (commits) van je project.
+
+Werken met branches
+Met branches kun je nieuwe dingen uitproberen zonder de hoofdversie van je project te veranderen. Dit helpt om overzicht te houden.
+
+git branch – Laat zien welke branches er zijn.
+
+git checkout -b nieuwe-branch – Maakt een nieuwe branch aan en schakelt er direct naar over.
+
+git merge – Voegt de veranderingen van een andere branch samen met je huidige versie.
+
+Conclusie
+Git is een krachtig en handig systeem om veilig aan code te werken. Het helpt mij om gestructureerd te werken, eerdere versies terug te vinden, en goed samen te werken met anderen aan hetzelfde project.
+
+Wat heb ik geleerd over GitHub?
+We hebben twee projecten gemaakt en daarbij goed samengewerkt via GitHub.
+
+Ik heb geleerd hoe je bestanden kunt pushen (verzenden) en pullen (binnenhalen).
+
+GitHub biedt veel mogelijkheden om samen te werken.
+
+Belangrijk: Werk niet tegelijk in hetzelfde bestand, want dan kunnen er conflicten ontstaan en kun je werk kwijtraken.
